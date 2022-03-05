@@ -16,13 +16,19 @@ with a title, coloring for different slices, labels for each section of the pie.
 
 Box and Whisker plots showed us statiscally (mean, median, mode) how ridership compares to each city type.
 
+![Box and Whisker Fares by City Type](https://github.com/gaudiom4git/PyBer_Analysis/blob/main/analysis/Fig2.png)
+
 ## Results
 
 Based on the pie charts from the module lessons, we can see that the Urban type collected the most in fares (62.7%), while suburban came in second at 30.5% and Rural at 6.8%.
 Ride count and driver count pie chart had similar results percentage wise.
 
+![Fares by City Type](https://github.com/gaudiom4git/PyBer_Analysis/blob/main/analysis/Fig5.png)
+
 Even the line chart in the challenge, we can see that Urban had the highest fare across Spring 2019 (Jan thru April) with Suburban in second and Rural in third.  
 Lowest fare collected occurs in January where the peak in the last part of February for all 3, but Suburban also has a high peack end of April. 
+
+![Fares by City Type](https://github.com/gaudiom4git/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
 
